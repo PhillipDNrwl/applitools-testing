@@ -12,8 +12,8 @@
       "{workspaceRoot}/.github/workflows/ci.yml"
     ]
   },
-  "nxCloudUrl": "https://staging.nx.app",
-  "nxCloudId": "681e6e7b36fd5075c64edb8b",
+  "nxCloudUrl": "http://localhost:4202",
+  "nxCloudId": "6826395947d51fcc085b8dc0",
   "plugins": [
     {
       "plugin": "@nx/js/typescript",
